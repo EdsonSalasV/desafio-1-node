@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "nombre": "edson",
+        "apellido": "salas",
+        "edad": "30",
+        "diagnostico": "fractura de tobillo",
+        "fonasa": "b"
+    }
+]
